@@ -6,9 +6,9 @@ https://bilal-js-projects.netlify.app
 
 https://bilal-js-projects.netlify.app/calculator/
 
-![Alt text](image-1.png)
+![Alt text](./project-images/image-1.png)
 
 ## Project 2 - Ramazan Counter
 
 https://bilal-js-projects.netlify.app/ramzan%20counter/
-![Alt text](image.png)
+![Alt text](./project-images/image.png)
